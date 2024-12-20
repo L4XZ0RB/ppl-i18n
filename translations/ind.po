@@ -17,7 +17,7 @@ msgstr "Aduh"
 #. adapt the message to your language.
 #: /client/application/game/entities/player/ship.cpp:334
 msgid "Yikes"
-msgstr "Anjay"
+msgstr "Yikes"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
@@ -73,7 +73,7 @@ msgstr "Tidak berhubungan dengan \"Super Hexagon\""
 #. Short description of the "hexagon" game mode
 #: /client/application/game/levels/game_levels.cpp:120
 msgid "Choose your own difficulty"
-msgstr "Pilih kesulitan kamu sendiri"
+msgstr "Pilih kesulitanmu sendiri"
 
 #. Short description of the "eskiv" game mode
 #: /client/application/game/levels/game_levels.cpp:138
@@ -83,7 +83,7 @@ msgstr "Hindari semuanya dan kamu akan baik baik saja"
 #. Short description of the "eskiv" game mode
 #: /client/application/game/levels/game_levels.cpp:140
 msgid "aka Dodge This"
-msgstr "alias Dodge This"
+msgstr "alias Hindari Ini"
 
 #. Short description of the "eskiv" game mode
 #: /client/application/game/levels/game_levels.cpp:142
@@ -93,7 +93,7 @@ msgstr "Hijau baik. Merah buruk"
 #. Short description of the "waves" game mode
 #: /client/application/game/levels/game_levels.cpp:161
 msgid "RIP GW3:Dimensions"
-msgstr "Mampus GW3: Dimension"
+msgstr "RIP GW3: Dimension"
 
 #. Short description of the "waves" game mode
 #: /client/application/game/levels/game_levels.cpp:163
@@ -143,7 +143,7 @@ msgstr "laso barang-barang untuk membuat mereka menghilang"
 #. Short description of the symbiosis game mode
 #: /client/application/game/levels/game_levels.cpp:262
 msgid "2 brain hemispheres, 2 hands, 2 ships."
-msgstr "2 pikiram hemisphere, 2 tangan, 2 pesawat"
+msgstr "2 pikiran hemisphere, 2 tangan, 2 pesawat"
 
 #. Shown in a notification when a new score medal is earned.
 #: /client/application/game/levels/medals.cpp:14
@@ -230,7 +230,7 @@ msgstr "Tidak biasa"
 #. Describes the rarity level of items. Rarity level of 2.
 #: /client/application/game/player_data/player_unlocked_items.cpp:325
 msgid "Rare"
-msgstr "Langkah"
+msgstr "Langka"
 
 #. Describes the rarity level of items. Rarity level of 3.
 #: /client/application/game/player_data/player_unlocked_items.cpp:327
@@ -265,7 +265,7 @@ msgstr "Jejak"
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:31
 msgid "Bullet"
-msgstr "Tembakan"
+msgstr "Peluru"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:33
@@ -327,12 +327,12 @@ msgstr "Game Berakhir"
 #. translation.
 #: /client/application/game/ui/game_over_ui.cpp:18
 msgid "You died. Again."
-msgstr "Mokad lagi ya?"
+msgstr "Kamu mati. Lagi"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:20
 msgid "Insert coin to continue"
-msgstr "Masukkan gocap untuk melanjutkan"
+msgstr "Masukkan koin untuk melanjutkan"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:22
@@ -342,7 +342,7 @@ msgstr "Turut berduka cita"
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:24
 msgid "It's okay, you were never going to win anyway."
-msgstr "Menyerahlah, toh kamu nggak bakal bisa menang"
+msgstr "Menyerahlah, kamu tidak mungkin bisa menang"
 
 #: /client/application/game/ui/game_over_ui.cpp:48
 msgid "Play again"
@@ -439,7 +439,7 @@ msgstr "Meminta penghapusan akun."
 
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:82
 msgid "An email asking for confirmation was sent."
-msgstr "Sebuah email meminta konfirmasi telah dikirim."
+msgstr "Sebuah email untuk meminta konfirmasi telah dikirim."
 
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:87
 msgid "Failed to request account deletion"
@@ -569,7 +569,7 @@ msgstr "Email verifikasi terkirim"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:36
 msgid "Check your inbox!"
-msgstr "Cek kotak surat anda!"
+msgstr "Periksa kotak surat anda!"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:40
 msgid "Failed to resend email"
@@ -744,12 +744,12 @@ msgstr "Lensa kotor"
 #. The name of the setting that enables horizontal scanlines.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:138
 msgid "horizontal"
-msgstr "horisontal"
+msgstr "horizontal"
 
 #. The name of setting that enables grid-like scanlines.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:140
 msgid "grid"
-msgstr "kisi-kisi"
+msgstr "garis kisi"
 
 #. The name for the setting category for choosing the scalines type.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:142
@@ -1470,7 +1470,7 @@ msgstr "Nama"
 #. is. For example, "common", "rare", etc...
 #: /client/application/game/ui/screens/screen_unlock_items.cpp:101
 msgid "Rarity"
-msgstr "Kelangkahan"
+msgstr "Kelangkaan"
 
 #. Title of the screen that shows the UI to unlock items
 #: /client/application/game/ui/screens/screen_unlock_items.cpp:237
@@ -1945,7 +1945,7 @@ msgstr "Merah Beku"
 #. The UI color "frosted blue"
 #: /client/application/ui/ui_skin.cpp:73
 msgid "Frosted Blue"
-msgstr "Biru Beki"
+msgstr "Biru Beku"
 
 #. The UI color "frosted yellow"
 #: /client/application/ui/ui_skin.cpp:76
